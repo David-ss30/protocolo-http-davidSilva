@@ -1,0 +1,24 @@
+{
+  "name": "protocolo-http-davidsilva",
+  "version": "1.0.0",
+  "description": "Explicação teorica.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-ss30/protocolo-http-davidSilva.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/David-ss30/protocolo-http-davidSilva/issues"
+  },
+  "homepage": "https://github.com/David-ss30/protocolo-http-davidSilva#readme"
+}
